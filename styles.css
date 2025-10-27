@@ -28,7 +28,7 @@
 }
 
 body {
-    font-family: 'Rodeqa Slab', Georgia, serif;
+    font-family: 'Arial Unicode', Arial, sans-serif;
     color: #1E1E1E;
     background: #FFFFFF;
     line-height: 1.6;
@@ -112,7 +112,7 @@ body {
 }
 
 .hero-subtitle {
-    font-family: 'Rodeqa Slab', Georgia, serif;
+    font-family: 'Arial Unicode', Arial, sans-serif;
     font-size: 18px;
     color: #555555;
     margin-bottom: 20px;
@@ -121,7 +121,7 @@ body {
 }
 
 .hero-title {
-    font-family: 'Arial Unicode', Arial, sans-serif;
+    font-family: 'Rodeqa Slab', Georgia, serif;
     font-size: 64px;
     font-weight: 900;
     color: #1E1E1E;
@@ -131,7 +131,7 @@ body {
 }
 
 .hero-heading {
-    font-family: 'Rodeqa Slab', Georgia, serif;
+    font-family: 'Doublebass', 'Brush Script MT', cursive;
     font-size: 28px;
     font-weight: 400;
     color: #2C2C2C;
@@ -140,7 +140,7 @@ body {
 }
 
 .hero-emotional {
-    font-family: 'Doublebass', 'Brush Script MT', cursive;
+    font-family: 'Arial Unicode', Arial, sans-serif;
     font-size: 32px;
     font-style: italic;
     background: linear-gradient(135deg, #FF8C00 0%, #FFA500 100%);
@@ -152,7 +152,7 @@ body {
 }
 
 .hero-btn {
-    font-family: 'Rodeqa Slab', Georgia, serif;
+    font-family: 'Arial Unicode', Arial, sans-serif;
     font-size: 18px;
     font-weight: 700;
     color: #FFFFFF;
@@ -357,7 +357,7 @@ body {
 }
 
 .section-title {
-    font-family: 'Arial Unicode', Arial, sans-serif;
+    font-family: 'Rodeqa Slab', Georgia, serif;
     font-size: 42px;
     font-weight: 700;
     text-align: center;
@@ -368,7 +368,7 @@ body {
 }
 
 .section-subtitle {
-    font-family: 'Rodeqa Slab', Georgia, serif;
+    font-family: 'Doublebass', 'Brush Script MT', cursive;
     font-size: 20px;
     text-align: center;
     color: #FF8C00;
@@ -452,7 +452,7 @@ body {
 }
 
 .cta-btn {
-    font-family: 'Rodeqa Slab', Georgia, serif;
+    font-family: 'Arial Unicode', Arial, sans-serif;
     font-size: 20px;
     font-weight: 700;
     color: #1E1E1E;
@@ -545,7 +545,7 @@ body {
 
 /* Заголовок секції */
 .after-course-title {
-    font-family: 'Arial Unicode', Arial, sans-serif;
+    font-family: 'Rodeqa Slab', Georgia, serif;
     font-size: 48px;
     font-weight: 700;
     text-align: center;
@@ -664,7 +664,7 @@ body {
 }
 
 .achievement-description {
-    font-family: 'Rodeqa Slab', Georgia, serif;
+    font-family: 'Doublebass', 'Brush Script MT', cursive;
     font-size: 18px;
     color: #4A4A4A;
     line-height: 1.6;
@@ -948,7 +948,7 @@ body {
 
 /* Заголовок секції */
 .benefits-title {
-    font-family: 'Arial Unicode', Arial, sans-serif;
+    font-family: 'Rodeqa Slab', Georgia, serif;
     font-size: 48px;
     font-weight: 700;
     text-align: center;
@@ -1086,7 +1086,7 @@ body {
 
 /* Заголовок картки */
 .benefit-title {
-    font-family: 'Arial Unicode', Arial, sans-serif;
+    font-family: 'Rodeqa Slab', Georgia, serif;
     font-size: 26px;
     font-weight: 700;
     color: #1E1E1E;
@@ -1096,7 +1096,7 @@ body {
 
 /* Опис */
 .benefit-description {
-    font-family: 'Rodeqa Slab', Georgia, serif;
+    font-family: 'Doublebass', 'Brush Script MT', cursive;
     font-size: 17px;
     color: #4A4A4A;
     line-height: 1.7;
@@ -1118,7 +1118,7 @@ body {
 }
 
 .benefits-cta-btn {
-    font-family: 'Rodeqa Slab', Georgia, serif;
+    font-family: 'Arial Unicode', Arial, sans-serif;
     font-size: 19px;
     font-weight: 700;
     color: #FFFFFF;
@@ -1395,7 +1395,7 @@ body {
 
 /* Заголовки секції */
 .program-title {
-    font-family: 'Arial Unicode', Arial, sans-serif;
+    font-family: 'Rodeqa Slab', Georgia, serif;
     font-size: 52px;
     font-weight: 700;
     text-align: center;
@@ -1563,7 +1563,7 @@ body {
 }
 
 .module-list li {
-    font-family: 'Rodeqa Slab', Georgia, serif;
+    font-family: 'Arial Unicode', Arial, sans-serif;
     font-size: 17px;
     color: #4A4A4A;
     line-height: 1.8;
@@ -1827,7 +1827,7 @@ body {
 
 /* Заголовок бонусу */
 .bonus-main-title {
-    font-family: 'Arial Unicode', Arial, sans-serif;
+    font-family: 'Rodeqa Slab', Georgia, serif;
     font-size: 52px;
     font-weight: 900;
     text-align: center;
@@ -1840,7 +1840,7 @@ body {
 
 /* Підзаголовок */
 .bonus-subtitle {
-    font-family: 'Rodeqa Slab', Georgia, serif;
+    font-family: 'Doublebass', 'Brush Script MT', cursive;
     font-size: 28px;
     font-weight: 700;
     text-align: center;
@@ -1919,7 +1919,7 @@ body {
 }
 
 .webinar-title {
-    font-family: 'Arial Unicode', Arial, sans-serif;
+    font-family: 'Rodeqa Slab', Georgia, serif;
     font-size: 22px;
     font-weight: 700;
     color: #FF8C00;
@@ -1928,7 +1928,7 @@ body {
 }
 
 .webinar-description {
-    font-family: 'Rodeqa Slab', Georgia, serif;
+    font-family: 'Doublebass', 'Brush Script MT', cursive;
     font-size: 17px;
     color: #2C2C2C;
     line-height: 1.6;
@@ -2127,7 +2127,7 @@ body {
 
 /* Заголовок секції */
 .author-title {
-    font-family: 'Arial Unicode', Arial, sans-serif;
+    font-family: 'Rodeqa Slab', Georgia, serif;
     font-size: 48px;
     font-weight: 700;
     text-align: center;
